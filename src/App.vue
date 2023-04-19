@@ -63,7 +63,7 @@ export default {
             // myiframe.contentWindow.postMessage({ routeName: newVal.name }, "*");
           });
 
-          // console.log("newVal", newVal);
+          console.log("newVal", newVal);
         }
       },
     },
