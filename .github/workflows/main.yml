@@ -23,5 +23,5 @@ jobs:
           cd /tmp
           git clone https://github.com/myAnimation/myvue-automation.git
           cd /tmp/myvue-automation
-          chmod +x ./deploy.sh
-          ./deploy.sh
+          chmod +x /tmp/myvue-automation/deploy.sh
+          /tmp/myvue-automation/deploy.sh
