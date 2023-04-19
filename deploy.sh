@@ -1,6 +1,6 @@
 #!/bin/bash
 #安装依赖
-npm install
+npm install -f
 #打包
 npm run build:prod
 #删除 nginx 执行文件夹下的文件
