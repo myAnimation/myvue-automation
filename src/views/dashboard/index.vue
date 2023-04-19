@@ -2,7 +2,8 @@
   <div class="dashboard-container">
     <!-- <colorPicker v-model="color" v-on:change="headleChangeColor"></colorPicker> -->
     <!-- <sidebar-menu :menu="menu" /> -->
-    <div class="BJ"></div>
+    <!-- <div class="BJ"></div> -->
+    <video src="~@/assets/jh.mp4" controls autoplay id ="video"></video>
   </div>
 </template>
 
@@ -51,6 +52,9 @@ export default {
   width: 100%;
   height: 80vh;
 
-  
+}
+#video{
+  width: 100%;
+  height: 90vh;
 }
 </style>
