@@ -3,6 +3,7 @@
     <!-- <colorPicker v-model="color" v-on:change="headleChangeColor"></colorPicker> -->
     <!-- <sidebar-menu :menu="menu" /> -->
     <!-- <div class="BJ"></div> -->
+    <p1>姜浩</p1>
     <video src="~@/assets/jh.mp4" controls autoplay id ="video"></video>
   </div>
 </template>
