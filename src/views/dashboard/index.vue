@@ -4,16 +4,17 @@
     <!-- <sidebar-menu :menu="menu" /> -->
     <!-- <div class="BJ"></div> -->
     <p1>姜浩666</p1>
-    <video src="~@/assets/jh.mp4" controls autoplay id ="video"></video>
+    <video src="~@/assets/hj.mp4" controls autoplay id ="video"></video>
   </div>
 </template>
 
 <script>
 import { mapGetters } from "vuex";
 // import quickMenu from "vue-quick-menu";
+
 export default {
   name: "Dashboard",
-  data() {
+  data() { 
     return {};
   },
   computed: {
