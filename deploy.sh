@@ -13,4 +13,4 @@ cp  -r /tmp/myvue-automation/dist/*   /home/frontEnd/vue-demo/
 # mv  -r /tmp/myvue-automation/dist/*   /home/frontEnd/vue-demo/
 
 #删除克隆后的代码
-rm -rf /tmp/myvue-automation
+# rm -rf /tmp/myvue-automation
