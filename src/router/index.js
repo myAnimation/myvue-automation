@@ -24,12 +24,12 @@ export const constantRoutes = [
     component: () => import('@/views/404'),
     hidden: true
   },
-  {
-    path: '/echarts',
-    name: 'Echarts',
-    component: () => import('@/views/shipeiEcharts/index'),
-    meta: { title: 'Echarts适配' }
-  },
+  // {
+  //   path: '/echarts',
+  //   name: 'Echarts',
+  //   component: () => import('@/views/shipeiEcharts/index'),
+  //   meta: { title: 'Echarts适配' }
+  // },
   {
     path: '/',
     redirect: '/goCanvasinit',
