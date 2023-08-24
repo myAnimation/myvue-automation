@@ -1121,6 +1121,7 @@ export default {
           node.text = ''
         }
       });
+   
       // 生成拓扑图
       this.initDiagram();
     },

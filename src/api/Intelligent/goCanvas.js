@@ -1,5 +1,5 @@
 import request from '@/utils/request'
-import getTopologyDataJson from './json/getTopologyData.json'
+import getTopologyDataJson from './json/getTopologyData2.json'
 import getTrendListJson from './json/getTrendList.json'
 import getEMSBreakerStateJson from './json/getEMSBreakerState.json'
 import getPWEMSBreakerStateJson from './json/getPWEMSBreakerState.json'
