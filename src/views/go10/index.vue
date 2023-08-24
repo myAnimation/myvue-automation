@@ -93,6 +93,7 @@ export default {
           node.elt(0).fill,
           go.Brush.randomColor()
         );
+        // console.log(node.elt(1))
         animation.add(node.elt(1), "fraction", 0, 1);
         animation.duration = 1000 + Math.random() * 2000;
         animation.reversible = true; // Re-run backwards
@@ -100,15 +101,15 @@ export default {
         animation.start();
       });
     },
-    // animate1() {
-    //   var animation = new go.Animation();
-    //   this.diagram.nodes.each(function (node) {
-    //     // Animate the node's angle from its current value to a random value between 0 and 150 degrees
-    //     animation.add(node, "angle", node.angle, Math.random() * 150);
-    //   });
-    // //   this.animation.time = 1000; // Animate over 1 second, instead of the default 600 milliseconds
-    //   animation.start(); // starts the animation immediately
-    // },
+    animate1() {
+      var animation = new go.Animation();
+      this.diagram.nodes.each(function (node) {
+        // Animate the node's angle from its current value to a random value between 0 and 150 degrees
+        animation.add(node, "angle", node.angle, Math.random() * 150);
+      });
+    //   this.animation.time = 1000; // Animate over 1 second, instead of the default 600 milliseconds
+      animation.start(); // starts the animation immediately
+    },
   },
 };
 </script>

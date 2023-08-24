@@ -7,7 +7,7 @@ import 'element-ui/lib/theme-chalk/index.css'
 import locale from 'element-ui/lib/locale/lang/en' // lang i18n
 
 import '@/styles/index.scss' // global css
-
+import toolFun from './utils/tool'
 import App from './App'
 import store from './store'
 import router from './router'
@@ -25,6 +25,7 @@ Vue.use(VScaleScreen)
 Vue.use(ElementUI)
 Vue.use(vcolorpicker)
 window.go = gojs
+Vue.prototype.$tl = toolFun;
 Vue.prototype.$echarts = echarts
 /**
  * If you don't want to use mock-server

@@ -1,0 +1,2711 @@
+{
+    "trendData": {
+      "emsAcLineVOS": [
+        {
+          "from": "114560315521238986",
+          "to": "114560315521239522",
+          "electricCurrentType": 0,
+          "lineId": "116530640358211711",
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521238981",
+          "to": "114560315521246060",
+          "electricCurrentType": 0,
+          "lineId": "116530640358212179",
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521238985",
+          "to": "113997365567815697",
+          "electricCurrentType": 0,
+          "lineId": "116530640358212177",
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "113997365567815697",
+          "to": "114560315521246040",
+          "electricCurrentType": 0,
+          "lineId": "116530640358212244",
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "113997365567815697",
+          "to": "114560315521238980",
+          "electricCurrentType": 1,
+          "lineId": "116530640358212180",
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521249518",
+          "to": "113997365567815697",
+          "electricCurrentType": 1,
+          "lineId": "116530640358212443",
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246043",
+          "to": "113997365567816294",
+          "electricCurrentType": 0,
+          "lineId": "116530640358212813",
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451369309",
+          "to": "114560315521239534",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521239534",
+          "to": "3800475136453343259",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453343259",
+          "to": "3800475136453343237",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453343237",
+          "to": "3800475136453515600",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453515600",
+          "to": "3800475136453343257",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453343257",
+          "to": "3800475136453343267",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521239541",
+          "to": "115404740451369309",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453342893",
+          "to": "114560315521239541",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453342898",
+          "to": "3800475136453342893",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453464792",
+          "to": "3800475136453342898",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453464791",
+          "to": "3800475136453464792",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453431967",
+          "to": "3800475136453464791",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453471595",
+          "to": "3800475136453431967",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451369309",
+          "to": "114560315521239544",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521239544",
+          "to": "3800475136453343062",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453343062",
+          "to": "3800475136453343066",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453343066",
+          "to": "3800475136453343067",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453343067",
+          "to": "3800475136453343065",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453343065",
+          "to": "3800475136453412019",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453412019",
+          "to": "3800475136453343064",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453343064",
+          "to": "3800475136453499321",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453499321",
+          "to": "3800475136453343068",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451370211",
+          "to": "114560315521246049",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246049",
+          "to": "3800475136453346827",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346827",
+          "to": "3800475136453346835",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346835",
+          "to": "3802445461290521741",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451370211",
+          "to": "114560315521246051",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246051",
+          "to": "3800475136453346998",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346998",
+          "to": "3800475136453328833",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246052",
+          "to": "115404740451370211",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453361007",
+          "to": "114560315521246052",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453361008",
+          "to": "3800475136453361007",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290545534",
+          "to": "3800475136453361008",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451370211",
+          "to": "114560315521246053",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246053",
+          "to": "3800475136453346789",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346789",
+          "to": "3800475136453346791",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346791",
+          "to": "3800475136453346792",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346792",
+          "to": "3800475136453452920",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453452920",
+          "to": "3802445461290723496",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451370210",
+          "to": "114560315521246054",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246054",
+          "to": "3800475136453430633",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453430633",
+          "to": "3800475136453495130",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453495130",
+          "to": "3800475136453346829",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346829",
+          "to": "3800475136453430609",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453430609",
+          "to": "3800475136453346830",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346830",
+          "to": "3800475136453346826",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346826",
+          "to": "3800475136453343068",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246055",
+          "to": "115404740451370210",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346946",
+          "to": "114560315521246055",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346945",
+          "to": "3800475136453346946",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290696060",
+          "to": "3800475136453346945",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246056",
+          "to": "115404740451370210",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453347016",
+          "to": "114560315521246056",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290733754",
+          "to": "3800475136453347016",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246057",
+          "to": "115404740451370210",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346726",
+          "to": "114560315521246057",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290594678",
+          "to": "3800475136453346726",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451370214",
+          "to": "114560315521246068",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246068",
+          "to": "3800475136453329045",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329045",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246071",
+          "to": "115404740451370214",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328901",
+          "to": "114560315521246071",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290710445",
+          "to": "3800475136453328901",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246073",
+          "to": "115404740451370214",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453372267",
+          "to": "114560315521246073",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290710496",
+          "to": "3800475136453372267",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451370214",
+          "to": "114560315521246074",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521246074",
+          "to": "3800475136453329044",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329044",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453329042",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329042",
+          "to": "3800475136453329054",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329054",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453329049",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329049",
+          "to": "3800475136453329067",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329067",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451370392",
+          "to": "114560315521247052",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521247052",
+          "to": "3800475136453328757",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328757",
+          "to": "3802445461290692399",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521247053",
+          "to": "115404740451370537",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453348811",
+          "to": "114560315521247053",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453348811",
+          "to": "3800475136453457461",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453457461",
+          "to": "3800475136453542487",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453542487",
+          "to": "3800475136453348813",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453348813",
+          "to": "3800475136453328832",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521249522",
+          "to": "115404740451370537",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328786",
+          "to": "114560315521249522",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290659998",
+          "to": "3800475136453328786",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451370537",
+          "to": "114560315521249523",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521249523",
+          "to": "3800475136453328865",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328865",
+          "to": "3800475136453532423",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453532423",
+          "to": "3800475136453328680",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451370537",
+          "to": "114560315521249524",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521249524",
+          "to": "3800475136453328720",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328720",
+          "to": "3800475136453328681",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "115404740451370392",
+          "to": "114560315521249527",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "114560315521249527",
+          "to": "3800475136453328683",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328683",
+          "to": "3802445461290727072",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346834",
+          "to": "3802445461290521741",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346834",
+          "to": "3800475136453329207",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329207",
+          "to": "3800475136453543496",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453543496",
+          "to": "3802445461290530923",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290521741",
+          "to": "3800475136453346836",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346833",
+          "to": "3800475136453346836",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346831",
+          "to": "3800475136453346833",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453346831",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453361009",
+          "to": "3802445461290545534",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328903",
+          "to": "3800475136453361009",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453361004",
+          "to": "3802445461290545534",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290545463",
+          "to": "3800475136453361004",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290723496",
+          "to": "3800475136453329204",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290723496",
+          "to": "3800475136453346790",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290723496",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346944",
+          "to": "3802445461290696060",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346943",
+          "to": "3800475136453346944",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290695992",
+          "to": "3802445461290696060",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3802445461290696060",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453471597",
+          "to": "3802445461290733754",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290733687",
+          "to": "3800475136453471597",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346769",
+          "to": "3802445461290733754",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346710",
+          "to": "3802445461290594678",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290594747",
+          "to": "3800475136453346710",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453329046",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329046",
+          "to": "3800475136453531938",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453531938",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453531940",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453531940",
+          "to": "3800475136453531948",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453329047",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329047",
+          "to": "3800475136453492833",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453492833",
+          "to": "3802445461290617474",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328900",
+          "to": "3802445461290710445",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290685365",
+          "to": "3800475136453328900",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453440380",
+          "to": "3802445461290710445",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453372270",
+          "to": "3802445461290710496",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346790",
+          "to": "3800475136453372270",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453372266",
+          "to": "3802445461290710496",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453431944",
+          "to": "3800475136453372266",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453531941",
+          "to": "3800475136453431944",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453531941",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453531948",
+          "to": null,
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453329068",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329068",
+          "to": "3800475136453440380",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290692399",
+          "to": "3800475136453328755",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328755",
+          "to": "3800475136453419732",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453419732",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453419733",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453419733",
+          "to": "3800475136453419730",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453419730",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453419725",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290692399",
+          "to": "3800475136453328758",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328848",
+          "to": "3802445461290659998",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290659973",
+          "to": "3800475136453328848",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290727072",
+          "to": "3800475136453328682",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328682",
+          "to": "3802445461290727090",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290727072",
+          "to": "3800475136453528087",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453528087",
+          "to": "3800475136453419725",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290530923",
+          "to": "3800475136453538405",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290530923",
+          "to": "3800475136453543497",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453543497",
+          "to": "3800475136453546390",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453361000",
+          "to": "3802445461290545463",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453361000",
+          "to": "3800475136453361002",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453361002",
+          "to": "3800475136453538001",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453495989",
+          "to": "3800475136453538001",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453495990",
+          "to": "3800475136453495989",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453491569",
+          "to": "3802445461290545463",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453495988",
+          "to": "3800475136453491569",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3802445461290545463",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3802445461290545463",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328678",
+          "to": "3802445461290695992",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346949",
+          "to": "3802445461290695992",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453346949",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453347014",
+          "to": "3802445461290733687",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290733751",
+          "to": "3800475136453347014",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290594747",
+          "to": "3800475136453346751",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346751",
+          "to": "3800475136453471595",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346775",
+          "to": "3802445461290594747",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453346714",
+          "to": "3800475136453346775",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453533586",
+          "to": "3800475136453346714",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3802445461290594747",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290617474",
+          "to": "3800475136453492835",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453492835",
+          "to": "3802445461290530922",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290617474",
+          "to": "3800475136453456446",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453456446",
+          "to": "3800475136453456447",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453456447",
+          "to": "3800475136453456450",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453456450",
+          "to": "3800475136453486455",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453486455",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328897",
+          "to": "3802445461290685365",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453431958",
+          "to": "3800475136453328897",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453495988",
+          "to": "3800475136453431958",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453529651",
+          "to": "3802445461290685365",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328899",
+          "to": "3800475136453529651",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328903",
+          "to": "3800475136453328899",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290659973",
+          "to": "3800475136453328810",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328810",
+          "to": "3800475136453328821",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328821",
+          "to": "3802445461290659942",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290659973",
+          "to": "3800475136453457459",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453457459",
+          "to": "3800475136453328833",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328679",
+          "to": "3802445461290727090",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453529078",
+          "to": "3800475136453328679",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290727038",
+          "to": "3800475136453529078",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3802445461290733751",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290530922",
+          "to": "3800475136453329209",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453329209",
+          "to": "3802445461290745360",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453486453",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453486453",
+          "to": "3800475136453481986",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453481986",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453486454",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453486454",
+          "to": "3802445461290530888",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290530888",
+          "to": "3800475136453477363",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453477363",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328841",
+          "to": "3802445461290659942",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453495990",
+          "to": "3800475136453328841",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328813",
+          "to": "3802445461290659942",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453328832",
+          "to": "3800475136453328813",
+          "electricCurrentType": 1,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3802445461290745360",
+          "to": "3800475136453543491",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453543491",
+          "to": "3800475136453546395",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453482000",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453481988",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453481988",
+          "to": "3800475136453481991",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453481991",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453481990",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453481990",
+          "to": "3800475136453482000",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": null,
+          "to": "3800475136453481989",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453481989",
+          "to": "3800475136453485475",
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        },
+        {
+          "from": "3800475136453485475",
+          "to": null,
+          "electricCurrentType": 0,
+          "lineId": null,
+          "status": null,
+          "pandAfter": null
+        }
+      ],
+      "emsTransformerwindingVOS": [
+        {
+          "from": "115404740451369237",
+          "to": "117093590311633029",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497950264"
+            },
+            {
+              "id": "114560315521238955"
+            },
+            {
+              "id": "114841790497950262"
+            }
+          ]
+        },
+        {
+          "from": "115404740451369236",
+          "to": "117093590311633029",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497950263"
+            },
+            {
+              "id": "114560315521238955"
+            },
+            {
+              "id": "114841790497950262"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633029",
+          "to": "115404740451369239",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497950265"
+            },
+            {
+              "id": "114560315521238956"
+            },
+            {
+              "id": "114841790497950266"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633029",
+          "to": "115404740451369235",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497950259"
+            },
+            {
+              "id": "114560315521238954"
+            },
+            {
+              "id": "114841790497950261"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633029",
+          "to": "115404740451369234",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497950259"
+            },
+            {
+              "id": "114560315521238954"
+            },
+            {
+              "id": "114841790497950260"
+            }
+          ]
+        },
+        {
+          "from": "115404740451369236",
+          "to": "117093590311633030",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497950275"
+            },
+            {
+              "id": "114560315521238959"
+            },
+            {
+              "id": "114841790497950274"
+            }
+          ]
+        },
+        {
+          "from": "115404740451369237",
+          "to": "117093590311633030",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497950276"
+            },
+            {
+              "id": "114560315521238959"
+            },
+            {
+              "id": "114841790497950274"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633030",
+          "to": "115404740451369238",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497950277"
+            },
+            {
+              "id": "114560315521238960"
+            },
+            {
+              "id": "114841790497950278"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633030",
+          "to": "115404740451369234",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497950271"
+            },
+            {
+              "id": "114560315521238958"
+            },
+            {
+              "id": "114841790497950272"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633030",
+          "to": "115404740451369235",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497950271"
+            },
+            {
+              "id": "114560315521238958"
+            },
+            {
+              "id": "114841790497950273"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633062",
+          "to": "115404740451369308",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497951162"
+            },
+            {
+              "id": "114560315521239516"
+            },
+            {
+              "id": "114841790497951163"
+            }
+          ]
+        },
+        {
+          "from": "115404740451369311",
+          "to": "117093590311633062",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497951164"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633063",
+          "to": "115404740451369309",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497951166"
+            },
+            {
+              "id": "114560315521239518"
+            },
+            {
+              "id": "114841790497951167"
+            }
+          ]
+        },
+        {
+          "from": "115404740451369310",
+          "to": "117093590311633063",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497951168"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633406",
+          "to": "115404740451370214",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114560315521246064"
+            },
+            {
+              "id": "114841790497961491"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370212",
+          "to": "117093590311633406",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497961483"
+            },
+            {
+              "id": "114560315521246062"
+            },
+            {
+              "id": "114841790497961489"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370212",
+          "to": "117093590311633406",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497961488"
+            },
+            {
+              "id": "114560315521246062"
+            },
+            {
+              "id": "114841790497961489"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370212",
+          "to": "117093590311633406",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497961479"
+            },
+            {
+              "id": "114560315521246062"
+            },
+            {
+              "id": "114841790497961489"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633407",
+          "to": "115404740451370215",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114560315521246065"
+            },
+            {
+              "id": "114841790497961492"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370213",
+          "to": "117093590311633407",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497961485"
+            },
+            {
+              "id": "114560315521246063"
+            },
+            {
+              "id": "114841790497961490"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370213",
+          "to": "117093590311633407",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497961481"
+            },
+            {
+              "id": "114560315521246063"
+            },
+            {
+              "id": "114841790497961490"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633543",
+          "to": "115404740451370392",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114560315521249515"
+            },
+            {
+              "id": "114841790497966509"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370536",
+          "to": "117093590311633543",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497966511"
+            },
+            {
+              "id": "114560315521249514"
+            },
+            {
+              "id": "114841790497966507"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370536",
+          "to": "117093590311633543",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497966528"
+            },
+            {
+              "id": "114560315521249514"
+            },
+            {
+              "id": "114841790497966507"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633489",
+          "to": "115404740451370391",
+          "electricCurrentType": 1,
+          "betweenessVOS": [
+            {
+              "id": "114841790497963407"
+            },
+            {
+              "id": "114560315521247050"
+            },
+            {
+              "id": "114841790497966512"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633489",
+          "to": "115404740451370391",
+          "electricCurrentType": 1,
+          "betweenessVOS": [
+            {
+              "id": "114841790497963407"
+            },
+            {
+              "id": "114560315521247050"
+            },
+            {
+              "id": "114841790497966514"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633489",
+          "to": "115404740451370391",
+          "electricCurrentType": 1,
+          "betweenessVOS": [
+            {
+              "id": "114841790497963407"
+            },
+            {
+              "id": "114560315521247050"
+            },
+            {
+              "id": "114841790497966527"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370537",
+          "to": "117093590311633489",
+          "electricCurrentType": 1,
+          "betweenessVOS": [
+            {
+              "id": "114841790497963409"
+            },
+            {
+              "id": "114560315521247051"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633405",
+          "to": "115404740451370208",
+          "electricCurrentType": 1,
+          "betweenessVOS": [
+            {
+              "id": "114560315521246045"
+            },
+            {
+              "id": "114841790497961446"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370211",
+          "to": "117093590311633405",
+          "electricCurrentType": 1,
+          "betweenessVOS": [
+            {
+              "id": "114841790497961448"
+            },
+            {
+              "id": "114560315521246047"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633404",
+          "to": "115404740451370207",
+          "electricCurrentType": 1,
+          "betweenessVOS": [
+            {
+              "id": "114560315521246044"
+            },
+            {
+              "id": "114841790497961445"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370210",
+          "to": "117093590311633404",
+          "electricCurrentType": 1,
+          "betweenessVOS": [
+            {
+              "id": "114841790497961447"
+            },
+            {
+              "id": "114560315521246046"
+            }
+          ]
+        },
+        {
+          "from": "117093590311633803",
+          "to": "115404740451370958",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114560315521251525"
+            },
+            {
+              "id": "114841790497969277"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370957",
+          "to": "117093590311633803",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497969282"
+            },
+            {
+              "id": "114560315521251524"
+            },
+            {
+              "id": "114841790497969281"
+            }
+          ]
+        },
+        {
+          "from": "115404740451370957",
+          "to": "117093590311633803",
+          "electricCurrentType": 0,
+          "betweenessVOS": [
+            {
+              "id": "114841790497969273"
+            },
+            {
+              "id": "114560315521251524"
+            },
+            {
+              "id": "114841790497969281"
+            }
+          ]
+        }
+      ]
+    },
+    "realTimeTrendData": [
+      {
+        "id": "117375065288343868",
+        "p": 73.28,
+        "q": 9.94,
+        "i": 185.72,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288343869",
+        "p": -15.51,
+        "q": 0.94,
+        "i": 239.77,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288343870",
+        "p": -57.55,
+        "q": -6.06,
+        "i": 286.66,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288343871",
+        "p": 74.87,
+        "q": 7.37,
+        "i": 188.41,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288343872",
+        "p": -15.71,
+        "q": -2.55,
+        "i": 243.28,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288343873",
+        "p": -59.05,
+        "q": 0,
+        "i": 290.42,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288343948",
+        "p": -5.21,
+        "q": -1.1,
+        "i": 292.8,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288343947",
+        "p": 5.24,
+        "q": 1.21,
+        "i": 26.8,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288343951",
+        "p": -4.84,
+        "q": -1.45,
+        "i": 276.8,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288343950",
+        "p": 4.78,
+        "q": 1.4,
+        "i": 25.36,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288344794",
+        "p": -0.81,
+        "q": -0.32,
+        "i": 56.16,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288344793",
+        "p": 1.04,
+        "q": 0.35,
+        "i": 15.92,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288344796",
+        "p": -0.35,
+        "q": 0.13,
+        "i": 18.72,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288344795",
+        "p": 0.32,
+        "q": -0.18,
+        "i": 5.44,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288345116",
+        "p": -0.81,
+        "q": -0.22,
+        "i": 46.46,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288345115",
+        "p": 0.84,
+        "q": 0.25,
+        "i": 13.49,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288345000",
+        "p": -1.38,
+        "q": 0,
+        "i": 22.18,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288345001",
+        "p": 1.41,
+        "q": 0,
+        "i": 80.24,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288344791",
+        "p": -1.3,
+        "q": -0.3,
+        "i": 25.2,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288344792",
+        "p": 1.3,
+        "q": 0.3,
+        "i": 80.8,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288344789",
+        "p": -1.3,
+        "q": -0.3,
+        "i": 25.1,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288344790",
+        "p": 1.3,
+        "q": 0.3,
+        "i": 80,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288345701",
+        "p": -0.01,
+        "q": -0.01,
+        "i": 1.37,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "117375065288345700",
+        "p": 0.01,
+        "q": 0.01,
+        "i": 0,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358211710",
+        "p": null,
+        "q": null,
+        "i": null,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358211711",
+        "p": 10.43,
+        "q": 2.28,
+        "i": 52.41,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358212223",
+        "p": null,
+        "q": null,
+        "i": null,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358212179",
+        "p": 1.2,
+        "q": 0,
+        "i": 20.4,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358212177",
+        "p": 0.03,
+        "q": -0.84,
+        "i": 45.02,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358212244",
+        "p": -0.03,
+        "q": 0.67,
+        "i": 50.4,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358212180",
+        "p": -0.58,
+        "q": 0,
+        "i": 8.44,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358212442",
+        "p": null,
+        "q": null,
+        "i": null,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358212246",
+        "p": null,
+        "q": null,
+        "i": null,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358212650",
+        "p": null,
+        "q": null,
+        "i": null,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358212443",
+        "p": 0.58,
+        "q": -0.23,
+        "i": 10.05,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      },
+      {
+        "id": "116530640358212813",
+        "p": 0.01,
+        "q": -0.03,
+        "i": 0.36,
+        "afterCalculateP": null,
+        "afterCalculateQ": null,
+        "afterCalculateI": null
+      }
+    ]
+  }

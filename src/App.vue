@@ -1,19 +1,19 @@
 <template>
   <div id="app" >
     <router-view />
-    <iframe
+    <!-- <iframe
       id="myiframe"
       ref="myiframe"
       src="http://localhost:9530"
       frameborder="0"
-    ></iframe>
+    ></iframe> -->
   </div>
 </template>
 
 <script>
 import router from "@/router";
 import Layout from "@/layout";
-import myIframe from "@/views/myIframe/index.vue";
+// import myIframe from "@/views/myIframe/index.vue";
 export default {
   name: "App",
   data() {
